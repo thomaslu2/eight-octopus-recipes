@@ -1,0 +1,12 @@
+{
+  "name": "eightrecipes",
+  "displayName": "eightrecipes",
+  "expo": {
+    "name": "eightrecipes",
+    "slug": "eightrecipes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
